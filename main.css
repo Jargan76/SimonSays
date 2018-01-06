@@ -1,0 +1,105 @@
+body {
+  background-image: url(assets/Woodgrain.jpg);
+  background-repeat: no-repeat;
+  background-size: 660px 350px;
+  background-color: black;
+}
+.main {
+  border: none;
+  width: 150px;
+  height: 150px;
+  background-color: #EEE;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #333;
+  color: #EEE;
+  margin: 5px 5px;
+}
+.main:active, .main:focus {
+  outline: none;
+}
+.black {
+  position: relative;
+  background-color: #333;
+  width: 125px;
+  height: 125px;
+  border-radius: 15px;
+  top: -38px;
+  left: 6px;
+}
+.symbol, .name, .num {
+  position: relative;
+}
+.symbol {
+  font-size: 48px;
+  top: 32px;
+  left: 0px;
+}
+.name {
+  top: 0px;
+  left: 0px;
+}
+.num {
+  top: -117px;
+  left: 41px;
+}
+.panel {
+  position: relative;
+  margin: 5px;
+  background-color: #888;
+  border: 5px solid #555;
+  border-radius: 15px;
+  height: 150px;
+  width: 300px;
+}
+.display {
+  background-color: #DDD;
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  top: 5px;
+  left: 75px;
+  border: 1px solid #222;
+}
+.panel-btn {
+  position: relative;
+  top: -4px;
+  background-color: #333;
+  height: 25px;
+  width: 50px;
+  border-radius: 40%;
+}
+.panel-btn:active, .panel-btn:focus {
+  outline: none;
+}
+.start {
+  left: 52px;
+}
+.strick {
+  top: -80px;
+  left: 200px;
+}
+.startText, .strickText {
+  position: relative;
+}
+.startText {
+  top: 4px;
+  left: 52px;
+}
+.strickText {
+  top: -72px;
+  left: 195px;
+}
+@media screen and (min-width: 656px) {
+  .panel {
+    position: relative;
+    left: 160px;
+  }
+}
+@media screen and (max-width: 655px) {
+  body {
+    max-width: 350px;
+    min-width: 340px;
+    background-size: 335px 575px;
+  }
+}
