@@ -1,5 +1,6 @@
 # Simon Says Vsauce?
-Tribute to the classic Simon game with Vsauce inspiration. 
+### Hey GitHub, Jargan here!
+This is my tribute to the classic Simon game with Vsauce inspiration.
 
 If you are not sure what [Simon Game](https://en.wikipedia.org/wiki/Simon_(game) "Simon Game - Wikipedia") is, you must have been under a rock all your life.
 
@@ -10,4 +11,6 @@ Now the [Vsauce](https://en.wikipedia.org/wiki/Vsauce "Vsauce - Wikipedia") insp
 To see this code in action, click here =>[SimonSauce](https://jargan76.github.io/SimonSays/);
 
 
+To view the code flip over to the gh-pages branch.
 
+As always, Thanks for checking out my code!
