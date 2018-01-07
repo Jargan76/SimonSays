@@ -11,6 +11,4 @@ Now the [Vsauce](https://en.wikipedia.org/wiki/Vsauce "Vsauce - Wikipedia") insp
 To see this code in action, click here =>[SimonSauce](https://jargan76.github.io/SimonSays/);
 
 
-To view the code flip over to the gh-pages branch.
-
 As always, Thanks for checking out my code!
