@@ -18,6 +18,7 @@ function isMatch() {
         // slight pause before it stops showing WINNER!!
         setTimeout(()=>counter = toWin, 1500);
     }
+
     // Let Simon know that the player is done.
-    playerTurn = false;
+    setTimeout(()=>playerTurn = false, 1200);
 }
