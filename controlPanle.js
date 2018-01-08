@@ -19,7 +19,7 @@ function createControlPanel() {
   start.parent("control-panel");
   start.mousePressed(startGame);
   // strick mode on or off
-  strickText = createP("STRICK");
+  strickText = createP("STRICT");
   strickText.addClass("strickText");
   strickText.parent("control-panel");
   strick = createButton("");
